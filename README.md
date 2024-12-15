@@ -9,7 +9,7 @@
 
 ## Introduction
 
-BnB3 (Bed & Breakfast Web3) is a decentralized hospitality platform that revolutionizes short-term property rentals using blockchain technology.
+BnB3 (Bed & Breakfast Web3) is a decentralized hotel platform that revolutionizes short-term property rentals using blockchain technology.
 
 Key Features:
 
@@ -24,11 +24,11 @@ Technical Stack:
 - Web3 frontend for seamless user interaction
 - Decentralized storage for property details and user data
 
-The platform aims to bring the benefits of blockchain technology to the hospitality sector, offering reduced fees, increased transparency, and automated trust mechanisms for both hosts and guests.
+The platform aims to bring the benefits of blockchain technology to the hotel sector, offering reduced fees, increased transparency, and automated trust mechanisms for both hosts and guests.
 
 ## Goals after the hackathon
 
 - Launch BnB3 on mainnet
 - Expand property listings globally
 - Integrate additional features like dynamic pricing and reputation systems
-- Partner with existing hospitality platforms for wider adoption
+- Partner with existing hotel platforms for wider adoption
